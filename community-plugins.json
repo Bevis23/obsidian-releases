@@ -64279,5 +64279,12 @@
     "author": "Seigwen Lee",
     "description": "Translate selections and whole notes with Google or your own AI model (20+ BYOK providers). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "seigwen/dualtran-obsidian"
+  },
+  {
+    "id": "vault-workbench",
+    "name": "Vault Workbench",
+    "author": "Bevis23",
+    "description": "Browse, preview and edit notes across all local vaults in one unified workbench without switching windows.",
+    "repo": "Bevis23/vault-hub"
   }
 ]
